@@ -1,0 +1,6 @@
+KEYMAP_INTROSPECTION_ENABLE = no
+WPM_ENABLE = yes
+OLED_DRIVER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+SRC += keymap.c
+SRC += keymap_defs.c
